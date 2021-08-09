@@ -1,0 +1,35 @@
+
+.ab{
+    font-family:sans-serif;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    background-color:  peru;
+    text-align: center;
+}
+body{
+    margin: 0px;
+    background-color: honeydew;
+}
+.abc{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+}
+.abc p,li{
+    color: indianred;
+}
+.abc img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.nish {
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+}
